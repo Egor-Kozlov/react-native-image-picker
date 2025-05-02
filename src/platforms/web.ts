@@ -81,6 +81,7 @@ export function camera(
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 3000;
   `;
   
   wrapper.style.cssText = `
